@@ -58,3 +58,9 @@ nav a {
   color: white;
   text-decoration: none;
 }
+
+@media (max-width: 320px) {
+  .body-stuff h2 {
+    font-size: 17px;
+  }
+}
